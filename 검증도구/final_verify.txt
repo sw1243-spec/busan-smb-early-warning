@@ -1,0 +1,7 @@
+빌더 코드줄수 1043 / md 코드줄수 1043 / xlsx 코드행수 1043
+일치: True
+현장코드_2026-09.md -> OK
+오픈랩_3차방문_준비.md -> OK
+CLAUDE.md -> OK
+HANDOFF.md -> OK
+xlsx 재컴파일 실패 0

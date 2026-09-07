@@ -1,0 +1,11 @@
+# Claude Code 로컬 설정 (기기별)
+.claude/settings.local.json
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 임시
+~$*
+*.tmp

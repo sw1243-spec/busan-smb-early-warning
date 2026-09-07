@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kosis": {
+      "type": "http",
+      "url": "https://kosismcp2026.vercel.app/api/mcp"
+    }
+  }
+}

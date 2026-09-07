@@ -1,0 +1,15 @@
+S4-0 SPN090 ngu = 16
+S4-1 SPN090 ncd = 196
+S4-3 PT1 max = 0.0
+S4-4 CLSB vals = 2
+S4-6 Q8B = [{'rows_used': 128419475, 'age_ok': 128419475, 'age_mean': 45.9, 'amt60': 19.76, 'amt65': 10.7, 'cnt60': 19.01}]
+S5 buy_cov = 0.977
+S5 median mpi = 0.3254
+S5-B std top5 = ['26200', '26140', '26530', '26440', '26260']
+S6 AGE_D nym = 20
+S6 avg slope = 0.0447
+S7 = SKIP
+S7-0 SPN082 rate avg = 0.003
+S7-5 trd_only = 0
+S6 null_ym = 0
+S5 top5 raw = ['26530', '26440', '26140', '26200', '26350']
